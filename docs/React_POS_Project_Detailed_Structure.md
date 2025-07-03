@@ -41,9 +41,9 @@ Bu belge, React + TypeScript tabanlı bir POS sistemine ait proje dosya yapısı
 ├── tsconfig.json
 ├── eslint.config.js
 ├── tsconfig.node.json
-├── .bolt
-│   ├── config.json
-│   └── prompt
+├
+│   
+│   
 ├── vite.config.ts
 └── .gitignore
 
